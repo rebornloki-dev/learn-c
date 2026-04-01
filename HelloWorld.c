@@ -2,6 +2,7 @@
 
 int main (){
 
-    printf( "I like Cheeze Pizza");
+    printf( "I like Cheeze Pizza\n");
+    printf("Its really good\n");
     return 0;
 }
