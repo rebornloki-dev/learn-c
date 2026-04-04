@@ -7,6 +7,6 @@
                         \t = tab
     */
      printf(" I \n like pizza\n");
-     
+     printf("1\t3\t3\t");
     return 0;
     }
