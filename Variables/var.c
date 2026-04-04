@@ -13,8 +13,8 @@ int main(){
 
     int age = 21; //integer 
     float gpa = 2.05; //floating point number aka number with a decimal point
-    
-
+    char grade = 'C'; //single character
+    char name[] = "Axon"; //arrayof characters aka a word 
     return 0;
 
 }
