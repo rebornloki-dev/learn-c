@@ -16,8 +16,10 @@ int main(){
     char grade = 'C'; //single character
     char name[] = "Axon"; //array of characters aka a word 
 
-    printf("Hello %c")
-    printf("You are %d years old",age);
+    printf("Hello %s\n",name);
+    printf("You are %d years old\n",age);
+    printf("Your average grade is %c \n",grade);
+    printf ("Your GPA is %f\n",gpa);
     return 0;
 
 }
