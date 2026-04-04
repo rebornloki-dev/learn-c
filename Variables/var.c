@@ -6,6 +6,11 @@ int main(){
                 That variable now behaves as if it was the value it contains
                 BUT we need to declare what type of data we are storing 
     */
+    int x; //declaration
+    x = 123;//initialisation
+    int y = 321; //declaration + initialisation
+    int age = 21; //integer 
+    float gpa = 2.05; //floating point number aka number with a decimal point
     
     return 0;
 
