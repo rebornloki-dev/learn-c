@@ -6,6 +6,7 @@
                         \n =newline
                         \t = tab
     */
-     printf(" I like pizza\n");
+     printf(" I \n like pizza\n");
+     
     return 0;
     }
